@@ -24,7 +24,6 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: "asdfjkl"
       MYSQL_DATABASE: "todo_db"
-      MYSQL_USER: "root"
       MYSQL_PASSWORD: "asdfjkl"
       MYSQL_TCP_PORT: 3307
     ports:

@@ -13,7 +13,7 @@ import { DataSource } from 'typeorm';
           const dataSource = new DataSource({
             type: 'mysql',
             host: 'db',
-            port: 3307,
+            port: 3306,
             username: 'root',
             password: 'asdfjkl',
             database: 'todo_db',
